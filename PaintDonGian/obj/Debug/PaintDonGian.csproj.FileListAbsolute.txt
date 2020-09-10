@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\PaintDonGian\PaintDonGian\bin\Debug\PaintDonGian.exe.config
+C:\Users\User\source\repos\PaintDonGian\PaintDonGian\bin\Debug\PaintDonGian.exe
+C:\Users\User\source\repos\PaintDonGian\PaintDonGian\bin\Debug\PaintDonGian.pdb
+C:\Users\User\source\repos\PaintDonGian\PaintDonGian\obj\Debug\PaintDonGian.Paint.resources
+C:\Users\User\source\repos\PaintDonGian\PaintDonGian\obj\Debug\PaintDonGian.Properties.Resources.resources
+C:\Users\User\source\repos\PaintDonGian\PaintDonGian\obj\Debug\PaintDonGian.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PaintDonGian\PaintDonGian\obj\Debug\PaintDonGian.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PaintDonGian\PaintDonGian\obj\Debug\PaintDonGian.exe
+C:\Users\User\source\repos\PaintDonGian\PaintDonGian\obj\Debug\PaintDonGian.pdb
+C:\Users\User\source\repos\PaintDonGian\PaintDonGian\obj\Debug\PaintDonGian.csprojAssemblyReference.cache
